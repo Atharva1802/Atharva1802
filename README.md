@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atharva1802
 - 👀 I’m interested in AI and ML 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on projects related to problem solving
 
 
