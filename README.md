@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Atharva1802
-- 👀 I’m interested in AI and ML 
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on projects related to problem solving
+### Hi there! 👋
 
+I'm Atharva from India, I do Android Development and I really enjoy learning languages and frameworks. I also work in wordpress and also enjoy wireframing in UI, UX and design in general. Looking forward to a valuable friendship😊
 
-<!---
-Atharva1802/Atharva1802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
