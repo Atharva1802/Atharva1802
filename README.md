@@ -4,4 +4,5 @@ I'm Atharva from India, I do Android Development and I really enjoy learning lan
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva1802)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva1802&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva1802&show_icons=true&theme=dark)
