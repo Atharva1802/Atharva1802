@@ -6,6 +6,9 @@ I'm Atharva from India, I do Android Development and I really enjoy learning lan
 
 Skills: HTML / CSS / C++/ JAVA
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva1802&show_icons=true&theme=dark)
+
+
 - 🌱 I’m currently learning Android Development 
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 🤔 I’m looking for help with DSA 
@@ -20,7 +23,4 @@ Skills: HTML / CSS / C++/ JAVA
 
 ![Profile views](https://gpvc.arturio.dev/Atharva1802)  
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva1802&show_icons=true&theme=dark)
 
