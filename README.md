@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Atharva
 #### I am Android Developer
-![I am Android Developer](https://media.giphy.com/media/Jjfa6PH31VRgA/giphy.gif)
+![I am Android Developer](https://tenor.com/view/downsign-qr-code-brick-game-code-sam-omo-gif-13572105)
 
 I'm Atharva from India, I do Android Development and I really enjoy learning languages and frameworks. I also work in WordPress and also enjoy wireframing in UI, UX, and design in general. Looking forward to a valuable friendship😊
 
@@ -19,7 +19,6 @@ Skills: HTML / CSS / C++/ JAVA
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Atharva1802)  
 
 ![Profile views](https://gpvc.arturio.dev/Atharva1802)  
-
 
 
 
