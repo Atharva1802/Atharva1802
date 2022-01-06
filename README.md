@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Atharva
-#### I am a Rookie Android Developer 
+#### I am a Software Engineer
 ![I am Android Developer](https://media.giphy.com/media/4GIcsQJorDZOU/giphy.gif)
 
 I'm Atharva from India, I do Android Development and I really enjoy learning languages and frameworks. I also work in WordPress and also enjoy wireframing in UI, UX, and design in general. Looking forward to a valuable friendship😊
