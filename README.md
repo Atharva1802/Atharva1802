@@ -26,6 +26,5 @@ I'm Atharva from India, I do Android Development and I really enjoy learning lan
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Atharva1802)  
 
-![Profile views](https://gpvc.arturio.dev/Atharva1802)  
 
 
