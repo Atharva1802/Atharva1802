@@ -4,12 +4,12 @@
 
 I do Android Development and I really enjoy learning languages and frameworks. I also work in WordPress and also enjoy wireframing in UI, UX, and design in general. Looking forward to a valuable friendship😊
 
-- 🌱 I’m currently learning Android Development 
-- 👯 I’m looking to collaborate on Open Source Projects 
-- 🤔 I’m looking for help with DSA 
-- 💬 Ask me about Theoretical Physics, cars and business ideas 
-- 📫 How to reach me: atharvabhawsar18@gmail.com 
-- ⚡ Fun fact: I'm a petrolhead. 
+- I’m currently learning Android Development 
+- I’m looking to collaborate on Open Source Projects 
+- I’m looking for help with DSA 
+- Ask me about Theoretical Physics, cars and business ideas 
+- How to reach me: atharvabhawsar18@gmail.com 
+- Fun fact: I'm a petrolhead. 
 
 
 <h3 align="left">Connect with me:</h3>
