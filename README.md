@@ -1,9 +1,9 @@
 # About Me:
-💻 Frontend Developer </n>
-🎨 UX Designer with a passion for creating user-friendly digital experiences.
-🔥 Skilled in Javascript and React, HTML/CSS, and proficient in design tools such as Adobe XD, Figma. 
-😇 Keen to contribute to open-source projects and collaborate with others.
-🤝 team-oriented approach to every project.
+💻 Frontend Developer <br>
+🎨 UX Designer with a passion for creating user-friendly digital experiences. <br>
+🔥 Skilled in Javascript and React, HTML/CSS, and proficient in design tools such as Adobe XD, Figma. <br> 
+😇 Keen to contribute to open-source projects and collaborate with others. <br>
+🤝 team-oriented approach to every project. <br>
 
 
 ## 🌐 Socials:
