@@ -1,10 +1,3 @@
-# About Me:
-💻 Frontend Developer <br>
-🎨 UX Designer with a passion for creating user-friendly digital experiences. <br>
-🔥 Skilled in Javascript and React, HTML/CSS, and proficient in design tools such as Adobe XD, Figma. <br> 
-😇 Keen to contribute to open-source projects and collaborate with others. <br>
-🤝 team-oriented approach to every project. <br>
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/atharvabhawsar) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/3g4YUUjS) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharva-bhawsar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/atharvadftba) 
